@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>K-12 Covid Status Tracker</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link rel="stylesheet" href="./static/css/style.css">
+</head>
+
+<body>
+
+  <div class="container2">
+    <div class="row">
+        <div class="col-md-12 jumbotron text-center custom-title-box">
+            <h2 class="custom-h2">What can we sale?</h2>
+        </div>
+    </div>
+  </div>
+    <div class="row">
+      <div class="col-md-4">
+        <div class="well">
+          <h3>State Selected:</h3>
+          <select id="selDataset" onchange="optionChanged(this.value)"></select>
+        </div>
+        <div class="panel panel-primary metadata-panel">
+          <div class="panel-heading">
+            <h3 class="panel-title">School Info</h3>
+          </div>
+          <div id="sample-metadata" class="panel-body"></div>
+        </div>
+      </div>
+      <div class="col-md-8">
+        <div id="bar"></div>
+      </div>
+      <div class="col-md-9">
+        <div id="gauge"></div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-12">
+        <div id="bubble"></div>
+      </div>
+    </div>
+  </div>
+  <a href="index3.html" class="next_button">Next Page</a>
+  <a href="index.html" class="prev_button">Prev Page</a>
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+  <script src="static/js/app.js"></script>
+  <script type="text/javascript" src="static/js/csvJSON.js"></script>
+</body>
+
+</html>

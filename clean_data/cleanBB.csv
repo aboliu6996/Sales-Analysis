@@ -1,0 +1,1312 @@
+ProductType,Billing_Start_Date,NRC,MRC,state,country
+IDC,2009-09-16,500,1000,California,United States
+IPLC,2009-12-08,0,850,Oregon,United States
+IPLC,2009-12-09,430,850,Oregon,United States
+IPLC,2010-10-20,430,850,Oregon,United States
+IPLC,2010-10-20,430,850,Oregon,United States
+IPLC,2011-12-21,0,2720,Oregon,United States
+GIS,2012-06-15,0,6186,New York,United States
+IDC,2012-09-01,0,3600,California,United States
+IDC,2012-09-01,0,3600,California,United States
+IPLC,2012-10-03,0,2720,Oregon,United States
+IPLC,2012-10-03,0,2720,Oregon,United States
+IPLC,2012-10-03,0,2720,Oregon,United States
+IPLC,2012-10-03,0,2720,Oregon,United States
+IPLC,2013-07-01,0,870,Oregon,United States
+IDC,2014-03-24,92643,19470,California,United States
+IDC,2014-03-24,295644,63130,California,United States
+Project Item,2014-07-16,7042,0,California,United States
+IPLC,2014-07-30,0,870,Oregon,United States
+CPE(EI),2014-11-27,166270,0,California,United States
+Project Item,2014-12-18,24000,0,New York,United States
+Project Item,2015-02-19,796,0,Texas,United States
+CPE(EI),2015-03-16,360000,0,California,United States
+Project Item,2015-03-16,16929,0,New York,United States
+Project Item,2015-04-03,8678,0,Michigan,United States
+Project Item,2015-04-22,4264,0,South Carolina,United States
+Project Item,2015-07-31,76000,0,Michigan,United States
+Project Item,2015-08-14,19800,0,New York,United States
+Project Item,2015-08-21,2385,0,South Carolina,United States
+Project Item,2015-09-03,7620,0,California,United States
+Project Item,2015-11-10,6824,0,California,United States
+Project Item,2015-11-10,2250,0,California,United States
+Project Item,2015-11-20,26320,0,Michigan,United States
+Project Item,2016-01-12,3720,0,South Carolina,United States
+Project Item,2016-01-21,364683,0,California,United States
+Project Item,2016-01-21,117806,0,California,United States
+Project Item,2016-01-31,101202,0,California,United States
+Project Item,2016-03-08,18772,0,Michigan,United States
+Project Item,2016-03-22,3000,0,Michigan,United States
+Project Item,2016-04-27,260892,0,Michigan,United States
+Project Item,2016-05-10,19037,0,California,United States
+Project Item,2016-06-02,600,0,California,United States
+Project Item,2016-06-21,4452,0,Michigan,United States
+Project Item,2016-06-21,29247,0,Michigan,United States
+Project Item,2016-06-24,8373,0,Michigan,United States
+Project Item,2016-07-06,1324,0,California,United States
+Project Item,2016-07-22,7202,0,Texas,United States
+Project Item,2016-09-19,7301,0,Michigan,United States
+Project Item,2016-10-17,17720,0,New York,United States
+Project Item,2016-10-21,22880,0,Ohio,United States
+IEPL,2016-11-03,2590,1250,California,United States
+CPE(EI),2016-11-15,224295,0,California,United States
+Project Item,2016-11-18,21731,0,District of Columbia,United States
+Project Item,2016-11-18,71594,0,New York,United States
+Project Item,2016-11-18,28970,0,South Carolina,United States
+Project Item,2016-12-15,5646,0,Michigan,United States
+In-house wiring,2017-01-01,7496,175,California,United States
+Project Item,2017-01-08,86847,0,California,United States
+Project Item,2017-01-08,7656,0,Michigan,United States
+Project Item,2017-01-08,228740,0,California,United States
+Project Item,2017-01-08,232340,0,California,United States
+CPE(EI),2017-02-14,0,2352,California,United States
+CPE(EI),2017-02-14,0,2352,California,United States
+CPE(EI),2017-02-14,0,2352,California,United States
+CPE(EI),2017-02-14,0,588,California,United States
+CPE(EI),2017-02-14,0,2352,California,United States
+Project Item,2017-02-14,40500,0,Michigan,United States
+Project Item,2017-03-01,18914,0,Michigan,United States
+Project Item,2017-03-02,330,0,Michigan,United States
+Project Item,2017-03-02,6997,0,Michigan,United States
+Project Item,2017-03-14,875,0,New York,United States
+Project Item,2017-03-23,84800,0,California,United States
+Project Item,2017-04-03,26121,0,South Carolina,United States
+Project Item,2017-04-27,28529,0,South Carolina,United States
+Project Item,2017-05-08,6400,0,New York,United States
+Project Item,2017-05-08,7850,0,California,United States
+Project Item,2017-05-22,6400,0,New York,United States
+Project Item,2017-05-29,129066,0,South Carolina,United States
+Project Item,2017-05-31,21209,0,South Carolina,United States
+Project Item,2017-06-06,28337,0,California,United States
+Project Item,2017-06-23,49590,0,California,United States
+Project Item,2017-07-20,1161,0,New York,United States
+Project Item,2017-07-20,47381,0,New York,United States
+Project Item,2017-08-01,10332,0,Texas,United States
+Project Item,2017-08-01,1804,0,California,United States
+Project Item,2017-08-08,59187,0,South Carolina,United States
+Project Item,2017-08-11,17295,0,South Carolina,United States
+Project Item,2017-08-11,622587,0,Michigan,United States
+Project Item,2017-08-11,157413,0,Michigan,United States
+Project Item,2017-08-11,22119,0,Michigan,United States
+Project Item,2017-08-11,33948,0,Michigan,United States
+Project Item,2017-08-23,14760,0,California,United States
+Project Item,2017-08-28,16862,0,New York,United States
+Project Item,2017-08-28,16862,0,California,United States
+Project Item,2017-08-29,1700,0,Illinois,United States
+CPE,2017-09-01,680,220,Wisconsin,United States
+Project Item,2017-09-05,39890,0,New Jersey,United States
+Project Item,2017-09-07,-600,0,Texas,United States
+Project Item,2017-09-07,4200,0,Texas,United States
+Project Item,2017-09-11,5584,0,Minnesota,United States
+Project Item,2017-09-15,14137,0,Michigan,United States
+Project Item,2017-09-15,528,0,Michigan,United States
+Project Item,2017-09-23,81805,6961,California,United States
+Project Item,2017-10-25,7100,0,Illinois,United States
+In-house wiring,2017-11-01,0,325,Virginia,United States
+Project Item,2017-11-06,52564,0,Illinois,United States
+IDC,2017-11-17,9870,1464,Virginia,United States
+Project Item,2017-12-04,25689,0,New York,United States
+Project Item,2017-12-12,17239,0,California,United States
+Project Item,2017-12-14,3800,0,California,United States
+Project Item,2017-12-15,1945,0,New York,United States
+Project Item,2017-12-15,7162,0,New York,United States
+Project Item,2017-12-31,201637,0,New Jersey,United States
+Project Item,2017-12-31,2700,0,New Jersey,United States
+Project Item,2018-01-05,360,0,New York,United States
+Project Item,2018-01-05,13274,0,New Jersey,United States
+Project Item,2018-01-05,230,0,New York,United States
+Project Item,2018-01-05,59025,0,New Jersey,United States
+Project Item,2018-01-05,68298,0,Michigan,United States
+Project Item,2018-01-07,17742,0,South Carolina,United States
+Project Item,2018-01-08,171878,0,New York,United States
+Project Item,2018-01-12,9103,0,New York,United States
+Project Item,2018-01-12,2500,0,New York,United States
+Project Item,2018-01-12,2462,0,New York,United States
+Project Item,2018-01-17,14000,0,South Carolina,United States
+IEPL,2018-01-19,207956,0,New York,United States
+GIS2.0,2018-01-19,3000,450,California,United States
+Project Item,2018-01-23,264403,0,California,United States
+Project Item,2018-01-23,6813,0,Illinois,United States
+Project Item,2018-01-23,6000,0,Illinois,United States
+Project Item,2018-01-23,15126,0,Michigan,United States
+GIS2.0,2018-01-25,0,14150,California,United States
+Project Item,2018-01-30,12185,0,South Carolina,United States
+Project Item,2018-02-08,1214493,0,South Carolina,United States
+Project Item,2018-02-08,3964,0,New Jersey,United States
+Project Item,2018-02-08,365507,0,South Carolina,United States
+Project Item,2018-03-01,2000,0,Massachusetts,United States
+Project Item,2018-03-01,8024,0,California,United States
+Project Item,2018-03-02,3054,0,South Carolina,United States
+Project Item,2018-03-02,11625,0,South Carolina,United States
+Project Item,2018-03-02,318,0,South Carolina,United States
+Project Item,2018-03-02,30876,0,South Carolina,United States
+Project Item,2018-03-08,2340,0,California,United States
+Project Item,2018-03-14,2650,0,Virginia,United States
+Project Item,2018-03-15,51115,0,Texas,United States
+Project Item,2018-03-15,24126,0,Texas,United States
+In-house wiring,2018-03-15,300,200,California,United States
+Project Item,2018-03-23,560,0,New Jersey,United States
+Project Item,2018-04-17,6041,0,Florida,United States
+Project Item,2018-04-17,3986,0,California,United States
+Project Item,2018-04-17,3200,0,California,United States
+Project Item,2018-04-17,4710,0,New York,United States
+Project Item,2018-04-20,79383,0,Massachusetts,United States
+Project Item,2018-05-01,502112,0,California,United States
+GIS2.0,2018-05-01,0,13316,California,United States
+Project Item,2018-05-01,35572,0,California,United States
+Project Item,2018-05-04,6817,0,Arkansas,United States
+Project Item,2018-05-09,5570,0,Massachusetts,United States
+Project Item,2018-05-09,1295,0,Massachusetts,United States
+Project Item,2018-05-17,18620,0,Texas,United States
+Project Item,2018-05-17,27055,0,Texas,United States
+Project Item,2018-05-17,3000,0,Texas,United States
+Project Item,2018-05-25,12338,0,Illinois,United States
+Project Item,2018-05-25,5932,0,Illinois,United States
+Project Item,2018-06-05,6713,0,New York,United States
+Project Item,2018-06-05,614,0,New York,United States
+Project Item,2018-07-01,54974,0,California,United States
+Project Item,2018-07-01,661077,0,California,United States
+Project Item,2018-07-09,7893,0,South Carolina,United States
+Project Item,2018-07-16,2826,0,Michigan,United States
+CPE,2018-07-16,0,93,Texas,United States
+Project Item,2018-07-23,51978,0,South Carolina,United States
+Project Item,2018-07-23,33698,0,California,United States
+Project Item,2018-07-23,17359,0,South Carolina,United States
+Project Item,2018-07-31,3567,0,Virginia,United States
+Project Item,2018-08-06,136324,0,Virginia,United States
+Netcare,2018-08-08,0,65,Texas,United States
+Project Item,2018-08-09,7200,0,Massachusetts,United States
+Netcare,2018-08-10,0,65,California,United States
+Project Item,2018-08-13,5684,0,California,United States
+Project Item,2018-08-16,4300,0,Virginia,United States
+Project Item,2018-08-17,38950,0,Texas,United States
+IDC,2018-08-24,0,19365,Illinois,United States
+In-house wiring,2018-08-24,380,171,Illinois,United States
+In-house wiring,2018-08-24,380,171,Illinois,United States
+Project Item,2018-08-31,88406,0,California,United States
+Project Item,2018-09-19,800,0,District of Columbia,United States
+Project Item,2018-09-20,145228,200,Oregon,United States
+Project Item,2018-09-20,138492,0,Illinois,United States
+Project Item,2018-09-21,70058,0,California,United States
+Project Item,2018-09-30,100000,0,Massachusetts,United States
+CPE,2018-11-08,0,135,California,United States
+Project Item,2018-12-01,285,0,South Carolina,United States
+IDC,2018-12-22,0,1500,California,United States
+Project Item,2019-01-01,2734,0,California,United States
+Project Item,2019-01-01,22440,0,Florida,United States
+Project Item,2019-01-01,21693,0,Massachusetts,United States
+Project Item,2019-01-01,23295,0,Kentucky,United States
+Project Item,2019-01-03,39576,0,Michigan,United States
+Project Item,2019-01-03,37775,0,Michigan,United States
+In-house wiring,2019-01-10,400,245,Oregon,United States
+Project Item,2019-01-18,6900,0,California,United States
+Project Item,2019-01-18,35000,0,New York,United States
+Project Item,2019-01-24,450,0,California,United States
+Project Item,2019-02-01,211571,0,California,United States
+Project Item,2019-02-01,223956,0,California,United States
+Project Item,2019-02-08,34525,0,Virginia,United States
+Project Item,2019-02-08,38930,0,California,United States
+Project Item,2019-02-08,34525,0,Texas,United States
+Project Item,2019-02-08,2925,0,Texas,United States
+Project Item,2019-02-08,33140,0,California,United States
+Project Item,2019-02-08,3283,0,California,United States
+Project Item,2019-02-08,2925,0,Virginia,United States
+Dark Fiber,2019-02-11,0,2472,California,United States
+Dark Fiber,2019-02-11,0,2472,California,United States
+Dark Fiber,2019-02-11,0,2472,California,United States
+Dark Fiber,2019-02-11,0,2472,California,United States
+Project Item,2019-02-15,1300,0,Pennsylvania,United States
+Project Item,2019-02-15,11797,0,Texas,United States
+Project Item,2019-02-15,36738,0,New York,United States
+Project Item,2019-02-15,27666,0,Texas,United States
+Project Item,2019-02-15,1410,0,Texas,United States
+Project Item,2019-02-15,82460,0,Florida,United States
+Project Item,2019-02-15,13480,0,New York,United States
+Project Item,2019-02-15,32267,0,Pennsylvania,United States
+Project Item,2019-02-27,2743,0,California,United States
+Project Item,2019-02-27,10924,0,California,United States
+Project Item,2019-03-01,9624,0,California,United States
+Project Item,2019-03-01,490080,0,Florida,United States
+Project Item,2019-03-01,1500,0,California,United States
+Project Item,2019-03-07,13335,0,Texas,United States
+Project Item,2019-03-07,32109,0,Texas,United States
+Project Item,2019-03-08,3043,0,California,United States
+Project Item,2019-03-08,1900,0,California,United States
+Project Item,2019-03-08,550,0,California,United States
+Project Item,2019-03-08,2726,0,California,United States
+Project Item,2019-03-08,76277,0,California,United States
+Project Item,2019-03-21,7747,0,Florida,United States
+Project Item,2019-03-21,3260,0,Florida,United States
+Project Item,2019-03-21,10540,0,Florida,United States
+Project Item,2019-03-25,188278,0,Virginia,United States
+Dark Fiber,2019-03-25,816,816,Virginia,United States
+Project Item,2019-03-25,34400,0,California,United States
+Dark Fiber,2019-03-25,816,816,Virginia,United States
+Project Item,2019-03-25,25800,0,California,United States
+IDC,2019-04-05,0,112611,Virginia,United States
+Project Item,2019-04-05,410400,0,Virginia,United States
+Project Item,2019-04-05,633850,0,Virginia,United States
+Project Item,2019-04-15,600,0,Maryland,United States
+Project Item,2019-04-15,2780,0,Michigan,United States
+Project Item,2019-04-18,2363,0,Michigan,United States
+Project Item,2019-04-25,56000,0,Virginia,United States
+Project Item,2019-04-25,22539,0,Virginia,United States
+Dark Fiber,2019-04-30,0,1778,California,United States
+Dark Fiber,2019-04-30,0,1778,California,United States
+Dark Fiber,2019-04-30,0,1778,California,United States
+Dark Fiber,2019-04-30,0,1778,California,United States
+Project Item,2019-05-01,217166,0,Florida,United States
+Project Item,2019-05-01,8471,0,Florida,United States
+Project Item,2019-05-01,2310,0,New York,United States
+Project Item,2019-05-01,50449,0,Florida,United States
+Project Item,2019-05-01,7141,0,South Carolina,United States
+Project Item,2019-05-01,260541,0,Florida,United States
+Project Item,2019-05-01,209,0,New York,United States
+Project Item,2019-05-03,650,0,Texas,United States
+Project Item,2019-05-03,20029,0,Texas,United States
+Project Item,2019-05-03,1800,0,Michigan,United States
+Project Item,2019-05-03,6024,0,Pennsylvania,United States
+Project Item,2019-05-03,250,0,Pennsylvania,United States
+Project Item,2019-05-03,13375,0,Michigan,United States
+Project Item,2019-05-03,114423,0,Michigan,United States
+Project Item,2019-05-03,7386,0,Michigan,United States
+Project Item,2019-05-07,9745,0,Texas,United States
+Project Item,2019-05-07,11108,0,Texas,United States
+Project Item,2019-05-14,29580,0,New York,United States
+Project Item,2019-05-29,900,0,California,United States
+Project Item,2019-05-29,8000,0,California,United States
+Project Item,2019-05-30,3852,0,Texas,United States
+Project Item,2019-05-30,27390,0,Texas,United States
+Project Item,2019-05-30,115610,0,Texas,United States
+Project Item,2019-05-31,5653,1375,Virginia,United States
+Project Item,2019-06-01,4500,0,New York,United States
+Project Item,2019-06-01,3566,0,New York,United States
+Project Item,2019-06-04,1040,0,Maryland,United States
+Project Item,2019-06-15,1200,0,New York,United States
+Project Item,2019-06-20,37290,0,South Carolina,United States
+Project Item,2019-07-01,1848,0,Michigan,United States
+Project Item,2019-07-03,10973,0,South Carolina,United States
+Project Item,2019-07-03,35135,0,South Carolina,United States
+Project Item,2019-07-04,70942,0,South Carolina,United States
+Project Item,2019-07-04,9268,0,New York,United States
+GIS2.0,2019-07-05,0,4350,California,United States
+Dark Fiber,2019-07-08,0,972,California,United States
+Dark Fiber,2019-07-08,0,972,California,United States
+Project Item,2019-07-10,1948,0,Texas,United States
+Project Item,2019-07-10,552,0,Texas,United States
+In-house wiring,2019-07-11,400,245,Oregon,United States
+IP Sec VPN,2019-07-11,0,550,California,United States
+Project Item,2019-07-15,96273,0,New York,United States
+Project Item,2019-07-15,9307,0,New York,United States
+Project Item,2019-07-15,111112,0,New York,United States
+Project Item,2019-07-15,36331,0,Texas,United States
+Project Item,2019-07-15,94291,0,Texas,United States
+Project Item,2019-07-15,27192,0,New York,United States
+GIS,2019-07-24,200,1075,Virginia,United States
+In-house wiring,2019-07-26,0,250,Virginia,United States
+Project Item,2019-08-01,35520,0,Texas,United States
+Project Item,2019-08-01,2595,0,New York,United States
+Project Item,2019-08-01,5698,0,New York,United States
+Project Item,2019-08-07,17219,0,South Carolina,United States
+Project Item,2019-08-08,33732,0,Illinois,United States
+Project Item,2019-08-08,15773,0,Illinois,United States
+Project Item,2019-08-08,1332,0,Illinois,United States
+Project Item,2019-08-08,16083,0,Illinois,United States
+Project Item,2019-08-08,2295422,0,Illinois,United States
+Project Item,2019-08-08,1122467,0,Illinois,United States
+Project Item,2019-08-08,14608,0,Illinois,United States
+Managed/Maintenance Service,2019-08-09,0,14930,Washington,United States
+Project Item,2019-08-15,13975,0,New York,United States
+Project Item,2019-08-16,1495,0,Michigan,United States
+Project Item,2019-08-16,2170,0,Michigan,United States
+Project Item,2019-08-20,7555,0,California,United States
+In-house wiring,2019-08-21,1106,245,Oregon,United States
+Project Item,2019-08-21,2400,0,New York,United States
+Dark Fiber,2019-08-26,0,609,California,United States
+In-house wiring,2019-08-26,0,200,California,United States
+In-house wiring,2019-08-26,0,200,California,United States
+Project Item,2019-09-02,56022,0,New York,United States
+Project Item,2019-09-03,19857,0,Florida,United States
+Project Item,2019-09-03,2300,0,New York,United States
+Project Item,2019-09-03,89512,0,California,United States
+Project Item,2019-09-03,185480,0,California,United States
+Project Item,2019-09-03,54770,0,New York,United States
+Project Item,2019-09-03,11712,0,Florida,United States
+Project Item,2019-09-03,97824,0,Florida,United States
+Project Item,2019-09-03,153976,0,Florida,United States
+Project Item,2019-09-04,19910,0,Arkansas,United States
+Project Item,2019-09-04,12250,0,Arkansas,United States
+GIS2.0,2019-09-05,500,650,New York,United States
+Project Item,2019-09-06,1282,0,Texas,United States
+Project Item,2019-09-06,1860,0,Texas,United States
+Project Item,2019-09-09,42000,0,Michigan,United States
+Project Item,2019-09-09,59916,0,Michigan,United States
+Project Item,2019-09-09,2438,0,Michigan,United States
+Project Item,2019-09-09,37510,0,New York,United States
+Project Item,2019-09-09,824,0,New York,United States
+Project Item,2019-09-12,44709,0,District of Columbia,United States
+Project Item,2019-09-12,37842,0,District of Columbia,United States
+Project Item,2019-09-13,1300,0,Texas,United States
+Project Item,2019-09-13,510,0,Texas,United States
+Project Item,2019-09-27,31300,0,Michigan,United States
+Project Item,2019-09-27,59389,0,Michigan,United States
+Project Item,2019-10-01,34530,0,California,United States
+Project Item,2019-10-01,298850,0,Florida,United States
+Project Item,2019-10-01,6225,0,California,United States
+Project Item,2019-10-01,20799,0,Illinois,United States
+Dark Fiber,2019-10-01,1500,1500,Virginia,United States
+Dark Fiber,2019-10-01,1500,1500,Virginia,United States
+Project Item,2019-10-01,100559,0,Florida,United States
+Project Item,2019-10-01,89761,0,South Carolina,United States
+Dark Fiber,2019-10-01,1500,1500,Virginia,United States
+Dark Fiber,2019-10-01,1500,1500,Virginia,United States
+Project Item,2019-10-01,90450,0,Florida,United States
+Project Item,2019-10-01,200496,0,Florida,United States
+Project Item,2019-10-01,15623,0,Florida,United States
+Project Item,2019-10-07,29335,0,Michigan,United States
+Project Item,2019-10-07,30118,0,Michigan,United States
+In-house wiring,2019-10-24,300,200,California,United States
+Project Item,2019-10-25,83022,0,California,United States
+Project Item,2019-10-25,2254,0,California,United States
+Project Item,2019-10-25,861,0,California,United States
+Project Item,2019-10-25,375,0,California,United States
+Project Item,2019-10-25,46000,0,California,United States
+Project Item,2019-10-25,2558,0,California,United States
+Project Item,2019-10-31,3913,0,Illinois,United States
+Project Item,2019-10-31,36087,0,Illinois,United States
+Project Item,2019-11-01,376,0,New York,United States
+CPE(EI),2019-11-05,0,175,Colorado,United States
+Project Item,2019-11-08,65604,0,California,United States
+Project Item,2019-11-08,24083,0,California,United States
+In-house wiring,2019-11-08,0,250,Virginia,United States
+In-house wiring,2019-11-11,0,250,Virginia,United States
+Project Item,2019-11-15,22526,0,Texas,United States
+Project Item,2019-11-15,8587,0,Texas,United States
+Project Item,2019-11-15,26265,0,Texas,United States
+Project Item,2019-11-18,65185,0,Massachusetts,United States
+Project Item,2019-11-18,3246,0,Massachusetts,United States
+Project Item,2019-11-18,274,0,New Jersey,United States
+Project Item,2019-11-18,5390,0,Massachusetts,United States
+Project Item,2019-11-18,2511,0,Massachusetts,United States
+Project Item,2019-11-18,1527,0,New Jersey,United States
+Project Item,2019-11-18,598,0,Massachusetts,United States
+Project Item,2019-11-18,10600,0,Massachusetts,United States
+GIS,2019-11-19,268,2413,California,United States
+Project Item,2019-11-22,10797,0,New Jersey,United States
+Project Item,2019-11-22,803,0,New Jersey,United States
+In-house wiring,2019-11-25,0,250,Virginia,United States
+Project Item,2019-11-29,12201,0,Texas,United States
+GIS2.0,2019-12-01,0,360,California,United States
+GIS2.0,2019-12-01,0,6000,California,United States
+GIS2.0,2019-12-01,0,6000,California,United States
+GIS2.0,2019-12-01,0,6000,California,United States
+Project Item,2019-12-02,2085,0,Illinois,United States
+Project Item,2019-12-02,1113,0,Illinois,United States
+Project Item,2019-12-02,8786,0,Illinois,United States
+Project Item,2019-12-02,9475,0,New York,United States
+Project Item,2019-12-02,583,0,Illinois,United States
+Project Item,2019-12-02,2427,0,Illinois,United States
+Project Item,2019-12-02,7350,0,New York,United States
+Project Item,2019-12-02,6824,0,Illinois,United States
+Project Item,2019-12-02,17488,0,New York,United States
+Project Item,2019-12-06,18453,0,New Jersey,United States
+Project Item,2019-12-11,87009,0,New York,United States
+Project Item,2019-12-11,78817,0,New York,United States
+In-house wiring,2019-12-13,400,245,Oregon,United States
+Dark Fiber,2019-12-27,0,4900,California,United States
+Dark Fiber,2019-12-27,0,4900,California,United States
+Dark Fiber,2019-12-27,0,4900,California,United States
+Dark Fiber,2019-12-27,0,4900,California,United States
+Project Item,2019-12-31,12350,0,Florida,United States
+Project Item,2020-01-02,11257,0,California,United States
+Project Item,2020-01-02,28882,0,California,United States
+Project Item,2020-01-06,152370,0,California,United States
+Project Item,2020-01-06,35950,0,California,United States
+Project Item,2020-01-08,22780,0,South Carolina,United States
+Project Item,2020-01-09,7964,0,Michigan,United States
+Project Item,2020-01-15,89089,0,California,United States
+Project Item,2020-01-15,32782,0,California,United States
+Project Item,2020-01-30,12578,0,California,United States
+Project Item,2020-01-30,2062,0,California,United States
+In-house wiring,2020-02-03,0,250,Virginia,United States
+In-house wiring,2020-02-03,0,250,Virginia,United States
+Project Item,2020-02-06,3590,0,Texas,United States
+Project Item,2020-02-06,61883,0,Louisiana,United States
+GIS2.0,2020-02-10,0,4000,California,United States
+GIS2.0,2020-02-10,0,4250,California,United States
+GIS2.0,2020-02-10,0,4000,California,United States
+Project Item,2020-02-20,480,0,Michigan,United States
+Project Item,2020-02-20,3205,0,Michigan,United States
+Project Item,2020-03-02,4680,0,New York,United States
+Dark Fiber,2020-03-03,1087,1087,Virginia,United States
+Dark Fiber,2020-03-03,1359,1359,Virginia,United States
+Dark Fiber,2020-03-03,1359,1359,Virginia,United States
+Dark Fiber,2020-03-03,1087,1087,Virginia,United States
+Project Item,2020-03-07,12000,0,Virginia,United States
+Project Item,2020-03-09,3360,0,Michigan,United States
+Project Item,2020-03-09,3700,0,Illinois,United States
+Project Item,2020-03-09,2387,0,Michigan,United States
+Project Item,2020-03-09,9114,0,Illinois,United States
+Project Item,2020-03-23,47590,0,California,United States
+Project Item,2020-04-01,33700,0,Georgia,United States
+Project Item,2020-04-01,76300,0,Georgia,United States
+Project Item,2020-04-01,77197,0,Tennessee,United States
+Project Item,2020-04-01,156,0,Tennessee,United States
+GIS,2020-04-02,4000,12500,California,United States
+Project Item,2020-04-06,1020,0,Maryland,United States
+Project Item,2020-04-10,920274,0,District of Columbia,United States
+Project Item,2020-04-10,6076,0,Pennsylvania,United States
+Project Item,2020-04-10,3000,0,California,United States
+Project Item,2020-04-10,427226,0,District of Columbia,United States
+Project Item,2020-04-20,650,0,Michigan,United States
+Project Item,2020-04-22,55170,0,South Carolina,United States
+Project Item,2020-04-22,19760,0,Florida,United States
+Project Item,2020-04-29,1612,0,California,United States
+Project Item,2020-04-29,700,0,California,United States
+Project Item,2020-04-29,14933,0,California,United States
+Project Item,2020-04-29,10164,0,California,United States
+Project Item,2020-04-30,18331,0,California,United States
+Project Item,2020-04-30,1800,0,California,United States
+CPE(EI),2020-05-07,0,123,Georgia,United States
+In-house wiring,2020-05-19,0,250,Virginia,United States
+Project Item,2020-05-22,35201,0,Illinois,United States
+Project Item,2020-05-25,9359,0,California,United States
+Project Item,2020-05-25,15348,0,California,United States
+Project Item,2020-06-01,12000,0,District of Columbia,United States
+In-house wiring,2020-06-02,0,250,Virginia,United States
+Project Item,2020-06-03,91579,0,New York,United States
+Project Item,2020-06-03,20167,0,Texas,United States
+Project Item,2020-06-03,15700,0,Texas,United States
+Project Item,2020-06-03,1100,0,Wisconsin,United States
+Project Item,2020-06-03,40318,0,Texas,United States
+GIS2.0,2020-06-04,0,1500,California,United States
+Project Item,2020-06-04,7039,0,Michigan,United States
+Project Item,2020-06-05,2400,0,Ohio,United States
+GIS2.0,2020-06-08,300,12250,California,United States
+In-house wiring,2020-06-09,0,250,Virginia,United States
+Project Item,2020-06-11,1280,0,Alabama,United States
+Project Item,2020-06-11,4400,0,Alabama,United States
+Project Item,2020-06-22,1080,0,Texas,United States
+Project Item,2020-06-22,7170,0,Texas,United States
+Netcare,2020-06-23,0,85,Washington,United States
+CPE(EI),2020-06-23,0,250,Washington,United States
+Project Item,2020-06-25,800,59,District of Columbia,United States
+Project Item,2020-06-30,33652,0,Michigan,United States
+Project Item,2020-07-15,1728,0,Wisconsin,United States
+Project Item,2020-07-15,2805,0,Illinois,United States
+Project Item,2020-07-15,467,0,Wisconsin,United States
+Project Item,2020-07-15,3894,0,New Jersey,United States
+GIS,2020-07-16,200,700,Virginia,United States
+GIS,2020-07-16,200,700,Virginia,United States
+Project Item,2020-07-17,852172,0,District of Columbia,United States
+Project Item,2020-07-26,74480,0,California,United States
+Project Item,2020-07-26,1627,0,California,United States
+Project Item,2020-07-27,7146,0,South Carolina,United States
+In-house wiring,2020-07-31,489,326,California,United States
+In-house wiring,2020-07-31,489,326,California,United States
+In-house wiring,2020-07-31,489,326,California,United States
+In-house wiring,2020-07-31,489,326,California,United States
+Project Item,2020-08-05,1575,0,New Jersey,United States
+Project Item,2020-08-15,5860,0,New York,United States
+In-house wiring,2020-08-17,1300,300,California,United States
+GIS,2020-08-17,185,506,California,United States
+GIS,2020-08-21,0,1600,California,United States
+GIS,2020-08-24,0,3340,District of Columbia,United States
+Project Item,2020-08-26,0,59,District of Columbia,United States
+Project Item,2020-08-28,9486,0,California,United States
+Project Item,2020-08-31,987,0,Michigan,United States
+Project Item,2020-09-09,25653,0,New York,United States
+Project Item,2020-09-09,43221,0,New York,United States
+Project Item,2020-09-09,24750,0,Texas,United States
+In-house wiring,2020-09-10,0,250,Virginia,United States
+GIS2.0,2020-09-10,0,6000,California,United States
+Project Item,2020-09-15,243479,0,Wisconsin,United States
+Project Item,2020-09-15,93002,0,Wisconsin,United States
+Project Item,2020-09-16,8950,0,District of Columbia,United States
+Project Item,2020-09-16,739,0,Michigan,United States
+Project Item,2020-09-16,83514,0,District of Columbia,United States
+Project Item,2020-09-16,1000,0,Michigan,United States
+Project Item,2020-09-16,230,0,District of Columbia,United States
+Project Item,2020-09-16,0,59,District of Columbia,United States
+Project Item,2020-09-16,67650,0,District of Columbia,United States
+In-house wiring,2020-09-22,300,200,California,United States
+GIS,2020-09-27,350,300,Virginia,United States
+IDC,2020-09-29,13752,6948,California,United States
+Project Item,2020-09-29,16166,0,Texas,United States
+Project Item,2020-09-30,2680,0,California,United States
+Project Item,2020-09-30,220,0,California,United States
+IDC,2020-10-01,0,87420,California,United States
+IDC,2020-10-01,906,6001,California,United States
+IDC,2020-10-01,906,6001,California,United States
+Project Item,2020-10-05,36023,0,Virginia,United States
+Project Item,2020-10-23,6930,0,District of Columbia,United States
+Project Item,2020-10-23,751,0,District of Columbia,United States
+IDC,2020-10-23,1400,2966,California,United States
+In-house wiring,2020-10-27,0,250,Virginia,United States
+CPE(EI),2020-10-30,0,253,California,United States
+Project Item,2020-11-03,435,0,Ohio,United States
+Project Item,2020-11-03,686,0,Ohio,United States
+Project Item,2020-11-12,9017,0,District of Columbia,United States
+Project Item,2020-11-16,10150,0,New York,United States
+Project Item,2020-11-19,1195,0,Illinois,United States
+Project Item,2020-11-23,22000,0,New Jersey,United States
+GIS2.0,2020-11-23,300,1450,California,United States
+Project Item,2020-11-23,27875,0,New Jersey,United States
+Project Item,2020-11-25,110492,0,California,United States
+Project Item,2020-11-25,124512,0,California,United States
+In-house wiring,2020-11-25,300,200,California,United States
+Project Item,2020-12-01,36000,0,Illinois,United States
+Project Item,2020-12-01,55857,0,Illinois,United States
+Project Item,2020-12-01,38243,0,Florida,United States
+Project Item,2020-12-01,1705,0,New York,United States
+IEPL,2020-12-03,0,850,District of Columbia,United States
+Project Item,2020-12-05,1300,0,California,United States
+Project Item,2020-12-10,1500,0,Texas,United States
+Project Item,2020-12-10,5500,0,California,United States
+Project Item,2020-12-10,7000,0,California,United States
+In-house wiring,2020-12-15,400,245,Oregon,United States
+Project Item,2020-12-17,3000,0,Texas,United States
+Project Item,2020-12-17,2496,0,Texas,United States
+Project Item,2020-12-18,1250,0,New Jersey,United States
+Project Item,2020-12-31,15733,0,California,United States
+Project Item,2020-12-31,4927,0,California,United States
+Project Item,2021-01-04,210,0,California,United States
+Project Item,2021-01-04,1000,0,California,United States
+Project Item,2021-01-05,7600,0,New Hampshire,United States
+Project Item,2021-01-06,230,0,District of Columbia,United States
+Project Item,2021-01-06,8825,0,District of Columbia,United States
+GIS,2021-01-08,0,550,Delaware,United States
+Project Item,2021-01-12,960,0,New York,United States
+Project Item,2021-01-12,315,0,New York,United States
+Project Item,2021-01-12,1954,0,New York,United States
+Project Item,2021-01-12,4991,0,Michigan,United States
+Project Item,2021-01-12,1919,0,New York,United States
+In-house wiring,2021-01-12,300,200,California,United States
+Project Item,2021-01-12,327,0,New York,United States
+Project Item,2021-01-13,2580,0,New Jersey,United States
+Project Item,2021-01-14,1770,0,California,United States
+Project Item,2021-01-14,500,0,California,United States
+Project Item,2021-01-14,110855,0,California,United States
+GIS,2021-01-14,22468,1460,California,United States
+GIS2.0,2021-01-15,200,6000,California,United States
+GIS2.0,2021-01-15,1000,1100,California,United States
+Dark Fiber,2021-01-21,0,696,California,United States
+Dark Fiber,2021-01-21,0,696,California,United States
+Dark Fiber,2021-01-21,0,696,California,United States
+Dark Fiber,2021-01-21,0,696,California,United States
+CPE(EI),2021-01-22,0,115,Minnesota,United States
+IDC,2021-01-22,0,1795,Oregon,United States
+Project Item,2021-01-22,7800,0,Florida,United States
+Netcare,2021-01-25,0,85,Minnesota,United States
+Project Item,2021-02-17,463755,0,New Jersey,United States
+Project Item,2021-02-17,151245,0,New Jersey,United States
+Project Item,2021-02-20,2487,0,California,United States
+GIS,2021-02-25,0,1212,Virginia,United States
+Project Item,2021-02-28,221709,0,Virginia,United States
+Project Item,2021-03-01,3800,0,Texas,United States
+In-house wiring,2021-03-11,545,405,California,United States
+Project Item,2021-03-11,3750,0,Virginia,United States
+Project Item,2021-03-16,440,0,California,United States
+Project Item,2021-03-18,20064,0,Texas,United States
+Project Item,2021-03-19,52921,0,New York,United States
+Project Item,2021-03-25,3858,0,Pennsylvania,United States
+Project Item,2021-03-25,897,0,Washington,United States
+Project Item,2021-03-26,33173,0,New York,United States
+Project Item,2021-03-26,2824,0,California,United States
+Project Item,2021-04-01,0,1542,District of Columbia,United States
+IDC,2021-04-01,906,6001,California,United States
+GIS2.0,2021-04-06,300,6250,California,United States
+Project Item,2021-04-07,13735,0,Michigan,United States
+IDC,2021-04-10,0,5000,California,United States
+Project Item,2021-04-14,7957,0,California,United States
+Project Item,2021-04-14,16046,0,Texas,United States
+Project Item,2021-04-15,4040,0,California,United States
+Project Item,2021-04-15,2500,0,California,United States
+Project Item,2021-04-20,12780,0,Texas,United States
+Project Item,2021-04-23,108000,0,Virginia,United States
+Project Item,2021-04-23,486350,0,Virginia,United States
+IDC,2021-04-23,157680,86930,Virginia,United States
+Project Item,2021-04-27,1932,0,New York,United States
+GIS,2021-04-29,0,1420,New Jersey,United States
+Project Item,2021-04-30,24425,0,California,United States
+Project Item,2021-05-10,4325,0,District of Columbia,United States
+Project Item,2021-05-10,26958,0,District of Columbia,United States
+Project Item,2021-05-14,76784,0,Illinois,United States
+Project Item,2021-05-18,0,1200,Texas,United States
+IDC,2021-05-21,1200,2164,California,United States
+CPE(EI),2021-05-21,300,177,New Jersey,United States
+CPE(EI),2021-05-21,600,177,California,United States
+GIS2.0,2021-06-01,0,12000,Oregon,United States
+GIS2.0,2021-06-01,0,12000,California,United States
+GIS2.0,2021-06-01,0,12000,Oregon,United States
+GIS2.0,2021-06-01,0,12000,California,United States
+GIS2.0,2021-06-01,0,12000,California,United States
+GIS2.0,2021-06-01,0,12000,California,United States
+GIS,2021-06-02,0,550,California,United States
+Project Item,2021-06-02,4113,0,Pennsylvania,United States
+Netcare,2021-06-07,0,60,California,United States
+GIS,2021-06-11,0,800,Texas,United States
+Project Item,2021-06-15,29750,0,New York,United States
+Project Item,2021-06-15,4240,0,New York,United States
+Project Item,2021-06-15,1260,0,Colorado,United States
+Project Item,2021-06-15,630,0,New York,United States
+Project Item,2021-06-24,9644,0,Texas,United States
+Project Item,2021-06-29,1718,0,Texas,United States
+IDC,2021-07-01,906,6001,California,United States
+Project Item,2021-07-01,6651,0,Texas,United States
+Project Item,2021-07-02,238556,0,New Jersey,United States
+Project Item,2021-07-02,59290,0,New Jersey,United States
+GWL,2021-07-05,0,2700,Chikura Westhill CLS,United States
+GIS,2021-07-09,900,470,California,United States
+GIS2.0,2021-07-19,0,12000,California,United States
+GIS2.0,2021-07-19,0,9000,California,United States
+GIS2.0,2021-07-19,0,12000,California,United States
+GIS,2021-07-21,590,708,Illinois,United States
+Project Item,2021-07-26,10000,0,Texas,United States
+Project Item,2021-07-29,500,0,California,United States
+Project Item,2021-07-29,1375,0,California,United States
+IEPL,2021-07-30,300,1768,California,United States
+IDC,2021-08-01,0,11980,California,United States
+Project Item,2021-08-03,2000,0,California,United States
+Project Item,2021-08-03,23331,0,South Carolina,United States
+Project Item,2021-08-05,1300,0,California,United States
+Project Item,2021-08-05,575,0,California,United States
+Project Item,2021-08-05,348250,0,Rhode Island,United States
+Dark Fiber,2021-08-06,0,1630,Virginia,United States
+Dark Fiber,2021-08-06,0,1630,Virginia,United States
+Project Item,2021-08-07,4690,0,Virginia,United States
+Project Item,2021-08-07,2160,0,California,United States
+Project Item,2021-08-11,850,0,Ohio,United States
+Project Item,2021-08-13,6375,0,District of Columbia,United States
+Project Item,2021-08-13,13022,0,District of Columbia,United States
+Project Item,2021-08-13,6090,0,Texas,United States
+IDC,2021-08-19,600,1082,California,United States
+Project Item,2021-08-20,1600,0,Texas,United States
+Project Item,2021-08-23,11820,0,South Carolina,United States
+Project Item,2021-08-25,8730,0,Texas,United States
+In-house wiring,2021-08-27,550,350,California,United States
+In-house wiring,2021-08-27,550,350,California,United States
+Project Item,2021-08-30,13250,0,Michigan,United States
+Project Item,2021-08-30,6039,0,Michigan,United States
+Project Item,2021-08-31,9924,0,Pennsylvania,United States
+Project Item,2021-09-02,22899,0,Texas,United States
+Project Item,2021-09-02,44198,0,Texas,United States
+Project Item,2021-09-02,3000,0,Texas,United States
+Project Item,2021-09-02,800,0,California,United States
+Project Item,2021-09-02,176805,0,Texas,United States
+Project Item,2021-09-02,14356,0,Texas,United States
+Project Item,2021-09-02,21300,0,Texas,United States
+Project Item,2021-09-02,128682,0,Texas,United States
+Project Item,2021-09-02,15600,0,Texas,United States
+Project Item,2021-09-08,6200,0,New Hampshire,United States
+Project Item,2021-09-08,31178,0,Texas,United States
+IDC,2021-09-13,600,1082,California,United States
+IDC,2021-09-15,-5826,2815,California,United States
+Project Item,2021-09-16,0,2583,District of Columbia,United States
+Project Item,2021-09-17,7600,0,Texas,United States
+CPE(EI),2021-09-21,0,35,California,United States
+Project Item,2021-09-21,0,10,California,United States
+Managed/Maintenance Service,2021-09-23,647,408,Michigan,United States
+IDC,2021-09-27,1400,2100,California,United States
+Project Item,2021-09-28,7500,0,New Jersey,United States
+Project Item,2021-09-28,0,0,New Jersey,United States
+Project Item,2021-09-29,38948,0,Michigan,United States
+Project Item,2021-09-29,1407,0,Michigan,United States
+IDC,2021-10-01,906,6001,California,United States
+GIS,2021-10-01,0,1500,New Jersey,United States
+Project Item,2021-10-06,3705,0,California,United States
+Project Item,2021-10-13,2270,0,New Jersey,United States
+Project Item,2021-10-13,1875,0,New Jersey,United States
+Project Item,2021-10-13,2750,0,New Jersey,United States
+Project Item,2021-10-13,2602,0,New Jersey,United States
+Project Item,2021-10-14,1800,0,New York,United States
+IDC,2021-10-18,600,1082,California,United States
+Project Item,2021-10-19,700,0,Texas,United States
+Project Item,2021-10-20,800,0,Michigan,United States
+Project Item,2021-10-25,5778,0,California,United States
+Project Item,2021-10-25,7558,0,California,United States
+Project Item,2021-10-28,4058,0,Pennsylvania,United States
+Project Item,2021-10-28,1500,0,Texas,United States
+GIS,2021-11-01,0,1500,New Jersey,United States
+Project Item,2021-11-01,8953,0,South Carolina,United States
+Project Item,2021-11-03,45500,0,California,United States
+Project Item,2021-11-03,16500,0,California,United States
+Project Item,2021-11-03,950,0,Texas,United States
+Project Item,2021-11-03,755,0,Texas,United States
+Project Item,2021-11-03,49320,0,Texas,United States
+Project Item,2021-11-03,34680,0,Texas,United States
+Project Item,2021-11-03,169,0,Texas,United States
+Project Item,2021-11-03,931,0,Texas,United States
+Project Item,2021-11-04,325,0,California,United States
+Project Item,2021-11-04,325,177,California,United States
+SD-WAN,2021-11-08,135,1011,California,United States
+GIS,2021-11-08,3500,1600,California,United States
+GIS,2021-11-09,0,650,California,United States
+Project Item,2021-11-10,1381,0,District of Columbia,United States
+Project Item,2021-11-11,4385,0,District of Columbia,United States
+Project Item,2021-11-11,6657,0,District of Columbia,United States
+GIS2.0,2021-11-15,0,2175,California,United States
+GIS,2021-11-18,0,180,California,United States
+Project Item,2021-11-22,20617,0,New York,United States
+Project Item,2021-11-30,4162,0,California,United States
+Project Item,2021-11-30,17302,0,California,United States
+Project Item,2021-11-30,6475,0,Virginia,United States
+Project Item,2021-11-30,21150,0,California,United States
+Project Item,2021-12-01,2360,0,New Jersey,United States
+Project Item,2021-12-01,3630,0,Texas,United States
+GIS2.0,2021-12-01,350,16300,California,United States
+Project Item,2021-12-02,51873,0,Illinois,United States
+GIS2.0,2021-12-02,0,12000,California,United States
+Project Item,2021-12-02,25992,0,Illinois,United States
+Project Item,2021-12-06,215,0,New Jersey,United States
+Project Item,2021-12-07,2660,0,California,United States
+Project Item,2021-12-07,4080,0,California,United States
+Project Item,2021-12-07,1000,0,California,United States
+Project Item,2021-12-14,508,0,Florida,United States
+Project Item,2021-12-14,1570,0,Florida,United States
+Project Item,2021-12-16,84150,0,Texas,United States
+Project Item,2021-12-16,281850,0,Texas,United States
+Project Item,2021-12-17,2875,0,New Jersey,United States
+GIS2.0,2021-12-17,0,8422,California,United States
+Project Item,2021-12-17,1625,0,New Jersey,United States
+GIS,2021-12-22,100,1460,California,United States
+CPE,2021-12-30,0,180,Ohio,United States
+CPE,2021-12-30,0,190,California,United States
+Project Item,2022-01-01,3600,0,New York,United States
+IDC,2022-01-01,906,6001,California,United States
+IDC,2022-01-01,0,1050,California,United States
+IDC,2022-01-01,0,1050,California,United States
+GIS2.0,2022-01-04,300,3250,California,United States
+Project Item,2022-01-10,4667,0,California,United States
+Project Item,2022-01-10,1847,0,California,United States
+Project Item,2022-01-14,1575,0,District of Columbia,United States
+Project Item,2022-01-19,36470,0,Pennsylvania,United States
+Project Item,2022-01-20,1010,0,Texas,United States
+GIS2.0,2022-01-21,0,8400,California,United States
+Project Item,2022-01-21,4205,0,District of Columbia,United States
+GIS2.0,2022-01-21,0,8400,California,United States
+Project Item,2022-01-28,31340,0,Illinois,United States
+Project Item,2022-01-28,19947,0,Florida,United States
+GIS2.0,2022-02-01,0,24000,California,United States
+IDC,2022-02-02,5795,1156,Virginia,United States
+In-house wiring,2022-02-07,300,250,California,United States
+IDC,2022-02-07,600,1050,California,United States
+IDC,2022-02-07,600,1050,California,United States
+SD-WAN,2022-02-09,0,4,California,United States
+Project Item,2022-02-16,68800,0,California,United States
+Project Item,2022-02-16,255853,0,California,United States
+Project Item,2022-02-18,8270,0,California,United States
+Managed/Maintenance Service,2022-03-01,0,1200,New York,United States
+Project Item,2022-03-03,40639,0,Illinois,United States
+Project Item,2022-03-03,41200,0,Illinois,United States
+IDC,2022-03-07,600,1050,California,United States
+Project Item,2022-03-08,408876,0,Texas,United States
+Project Item,2022-03-08,260846,0,Texas,United States
+Project Item,2022-03-08,904219,0,Texas,United States
+In-house wiring,2022-03-10,350,300,New Jersey,United States
+Project Item,2022-03-15,7113,0,Florida,United States
+Project Item,2022-03-15,1463,0,Florida,United States
+IDC,2022-03-15,600,1050,California,United States
+Project Item,2022-03-17,6174,0,New Jersey,United States
+In-house wiring,2022-03-21,300,250,California,United States
+Project Item,2022-03-24,6215,0,South Carolina,United States
+Project Item,2022-03-24,10645,0,South Carolina,United States
+Project Item,2022-03-24,11672,0,South Carolina,United States
+Project Item,2022-03-24,19500,0,South Carolina,United States
+Project Item,2022-03-24,307412,0,South Carolina,United States
+Project Item,2022-03-24,149799,0,South Carolina,United States
+Project Item,2022-03-24,2360,0,New Jersey,United States
+Project Item,2022-03-24,7500,0,South Carolina,United States
+Project Item,2022-03-24,4020,0,South Carolina,United States
+Project Item,2022-03-24,1750,0,South Carolina,United States
+Project Item,2022-03-24,5700,0,South Carolina,United States
+GIS,2022-03-28,200,1290,California,United States
+IDC,2022-03-28,2100,900,California,United States
+Project Item,2022-03-28,1500,0,California,United States
+GIS,2022-03-31,4000,1841,Georgia,United States
+GIS2.0,2022-04-01,0,12000,,United States
+IDC,2022-04-01,600,1050,California,United States
+Project Item,2022-04-01,7931,0,Texas,United States
+Project Item,2022-04-05,41416,0,Texas,United States
+Project Item,2022-04-05,2400,0,Texas,United States
+Project Item,2022-04-05,179384,0,Texas,United States
+Project Item,2022-04-05,18600,0,Texas,United States
+CPE,2022-04-10,0,25,New Jersey,United States
+Project Item,2022-04-11,1100,0,Illinois,United States
+Project Item,2022-04-11,3403,0,Illinois,United States
+Project Item,2022-04-11,3420,0,Illinois,United States
+GIS2.0,2022-04-15,0,14000,California,United States
+GIS2.0,2022-04-15,0,14000,California,United States
+GIS2.0,2022-04-18,3261,9,,United States
+Project Item,2022-04-21,1016,0,Texas,United States
+Project Item,2022-04-21,8976,0,Pennsylvania,United States
+Project Item,2022-04-21,177,0,Pennsylvania,United States
+Project Item,2022-04-21,3048,0,Pennsylvania,United States
+Netcare,2022-04-26,0,85,New York,United States
+Netcare,2022-04-26,0,85,New York,United States
+Project Item,2022-05-02,5833,0,New York,United States
+IDC,2022-05-04,600,1050,California,United States
+Project Item,2022-05-10,116506,0,District of Columbia,United States
+Project Item,2022-05-10,68700,0,District of Columbia,United States
+Standard Cross Connect,2022-05-14,800,350,Virginia,United States
+Standard Cross Connect,2022-05-14,800,350,Virginia,United States
+Project Item,2022-05-16,5755,0,Texas,United States
+Project Item,2022-05-16,3365,0,Texas,United States
+CPE,2022-05-18,0,306,California,United States
+Project Item,2022-05-21,10000,0,California,United States
+Project Item,2022-05-23,17320,0,California,United States
+Project Item,2022-05-24,1417,0,California,United States
+Project Item,2022-05-24,26327,0,Texas,United States
+Project Item,2022-05-24,32282,0,Texas,United States
+Project Item,2022-05-25,21973,0,New Jersey,United States
+Project Item,2022-05-25,43027,0,New Jersey,United States
+Project Item,2022-05-27,5829,0,Pennsylvania,United States
+GIS,2022-05-31,0,735,Pennsylvania,United States
+GIS2.0,2022-06-01,0,6000,California,United States
+GIS2.0,2022-06-01,0,6000,California,United States
+GIS2.0,2022-06-01,0,6000,California,United States
+GIS2.0,2022-06-01,0,3000,California,United States
+GIS2.0,2022-06-01,0,3000,California,United States
+GIS2.0,2022-06-01,0,3000,California,United States
+GIS2.0,2022-06-01,0,6000,California,United States
+Standard Cross Connect,2022-06-01,0,245,Oregon,United States
+Standard Cross Connect,2022-06-01,0,245,Oregon,United States
+GIS2.0,2022-06-01,0,3000,California,United States
+GIS2.0,2022-06-01,0,6000,California,United States
+GIS2.0,2022-06-01,0,6000,California,United States
+GIS2.0,2022-06-01,0,6000,California,United States
+GIS2.0,2022-06-01,0,6000,California,United States
+IDC,2022-06-01,0,38310,Oregon,United States
+Project Item,2022-06-02,18766,0,Maryland,United States
+Project Item,2022-06-02,1708,0,Maryland,United States
+Project Item,2022-06-02,35580,0,New York,United States
+Project Item,2022-06-02,82820,0,New York,United States
+GIS,2022-06-03,0,2450,New York,United States
+GIS2.0,2022-06-07,0,870,New Jersey,United States
+CPE,2022-06-08,0,50,Maryland,United States
+Project Item,2022-06-08,95400,0,Georgia,United States
+Project Item,2022-06-08,346160,0,Georgia,United States
+GIS2.0,2022-06-08,0,745,Maryland,United States
+Netcare,2022-06-08,0,85,Maryland,United States
+Project Item,2022-06-09,1699,0,Virginia,United States
+Netcare,2022-06-09,0,65,Washington,United States
+GIS2.0,2022-06-09,0,522,Washington,United States
+Project Item,2022-06-10,1412,0,New York,United States
+Project Item,2022-06-10,33628,0,Texas,United States
+Project Item,2022-06-10,10624,0,Texas,United States
+Project Item,2022-06-10,950,0,New York,United States
+GIS2.0,2022-06-10,0,1387,Washington,United States
+Project Item,2022-06-13,33732,0,California,United States
+Project Item,2022-06-13,4024,0,Pennsylvania,United States
+Project Item,2022-06-13,3826,0,California,United States
+Project Item,2022-06-13,29338,0,California,United States
+Project Item,2022-06-13,14069,0,California,United States
+GIS2.0,2022-06-14,0,793,Pennsylvania,United States
+Netcare,2022-06-14,0,85,Pennsylvania,United States
+CPE,2022-06-14,0,140,Pennsylvania,United States
+Standard Cross Connect,2022-06-14,300,250,California,United States
+GIS2.0,2022-06-15,0,1200,California,United States
+GIS2.0,2022-06-17,0,368,Michigan,United States
+Netcare,2022-06-17,0,85,Michigan,United States
+CPE,2022-06-20,0,140,North Carolina,United States
+GIS2.0,2022-06-20,0,408,North Carolina,United States
+Netcare,2022-06-20,0,85,North Carolina,United States
+Dark Fiber,2022-06-24,0,550,California,United States
+SD-WAN,2022-06-24,0,985,Minnesota,United States
+GIS2.0,2022-06-25,0,3457,California,United States
+Netcare,2022-06-28,0,85,New York,United States
+Project Item,2022-06-28,6853,0,California,United States
+GIS2.0,2022-06-28,0,590,New York,United States
+SD-WAN,2022-06-28,0,1279,Wisconsin,United States
+In-house wiring,2022-06-30,300,250,California,United States
+GIS2.0,2022-06-30,0,16000,California,United States
+GIS,2022-07-05,200,800,California,United States
+GIS,2022-07-06,0,1082,Pennsylvania,United States
+GIS,2022-07-08,0,1136,New York,United States
+GIS2.0,2022-07-08,0,729,Texas,United States
+GIS,2022-07-11,0,1136,New York,United States
+GIS2.0,2022-07-12,0,1200,California,United States
+GIS2.0,2022-07-12,0,1200,California,United States
+Netcare,2022-07-13,0,85,New Jersey,United States
+GIS2.0,2022-07-13,350,1390,Washington,United States
+GIS2.0,2022-07-13,0,1350,Illinois,United States
+CPE,2022-07-13,0,165,New Jersey,United States
+GIS2.0,2022-07-13,0,1230,New Jersey,United States
+IP Sec VPN,2022-07-13,0,1250,Illinois,United States
+Project Item,2022-07-14,96872,0,New York,United States
+GIS2.0,2022-07-14,0,790,New Jersey,United States
+GIS2.0,2022-07-15,0,935,New Jersey,United States
+Netcare,2022-07-15,0,85,New Jersey,United States
+CPE,2022-07-15,0,145,New Jersey,United States
+GIS2.0,2022-07-16,0,1380,California,United States
+GIS,2022-07-19,0,1725,New York,United States
+GIS2.0,2022-07-20,0,377,Minnesota,United States
+Project Item,2022-07-25,2410,0,California,United States
+Project Item,2022-07-26,276030,0,Texas,United States
+Project Item,2022-07-26,414044,0,Texas,United States
+Managed/Maintenance Service,2022-07-27,20990,0,Georgia,United States
+SD-WAN,2022-07-28,1412,533,New Jersey,United States
+Project Item,2022-07-28,1800,0,Texas,United States
+Project Item,2022-07-29,87910,0,California,United States
+GIS2.0,2022-07-30,0,1717,Illinois,United States
+SD-WAN,2022-08-01,0,120,Minnesota,United States
+Project Item,2022-08-04,7921,0,Texas,United States
+GIS2.0,2022-08-08,0,1295,Minnesota,United States
+Netcare,2022-08-08,0,85,Minnesota,United States
+Project Item,2022-08-09,3960,0,Texas,United States
+Project Item,2022-08-09,2900,0,Texas,United States
+Project Item,2022-08-09,11300,0,California,United States
+Project Item,2022-08-09,50232,0,California,United States
+Project Item,2022-08-09,25656,0,California,United States
+Project Item,2022-08-09,12425,0,Texas,United States
+IP Sec VPN,2022-08-09,0,550,California,United States
+Project Item,2022-08-09,15946,0,Texas,United States
+Project Item,2022-08-09,9500,0,California,United States
+CPE,2022-08-10,0,150,Nebraska,United States
+CPE,2022-08-10,0,215,Arkansas,United States
+GIS2.0,2022-08-10,0,1325,Arkansas,United States
+Project Item,2022-08-10,5012,0,California,United States
+Netcare,2022-08-10,0,85,Arkansas,United States
+Netcare,2022-08-10,0,85,Nebraska,United States
+GIS2.0,2022-08-10,0,2276,Nebraska,United States
+GIS2.0,2022-08-11,0,656,Georgia,United States
+GIS2.0,2022-08-12,0,970,California,United States
+Standard Cross Connect,2022-08-12,500,300,Virginia,United States
+IDC,2022-08-16,600,1050,California,United States
+Netcare,2022-08-20,0,85,Michigan,United States
+GIS2.0,2022-08-20,0,1887,Michigan,United States
+GIS2.0,2022-08-21,0,1466,New York,United States
+Netcare,2022-08-21,0,85,New York,United States
+Project Item,2022-08-22,2223,0,Pennsylvania,United States
+GIS,2022-08-23,890,828,California,United States
+SD-WAN,2022-08-25,1412,1658,Iowa,United States
+GIS2.0,2022-08-26,0,2313,California,United States
+Netcare,2022-08-27,0,85,Illinois,United States
+GIS2.0,2022-08-27,0,954,Illinois,United States
+GIS2.0,2022-08-27,0,954,Illinois,United States
+Netcare,2022-08-27,0,85,Illinois,United States
+GIS2.0,2022-08-29,0,10000,California,United States
+Standard Cross Connect,2022-08-31,0,299,Oregon,United States
+GIS2.0,2022-08-31,0,753,Indiana,United States
+Netcare,2022-08-31,0,85,Indiana,United States
+Standard Cross Connect,2022-09-01,0,500,Los Angeles 1Wilshire LAX803 POP,United States
+Standard Cross Connect,2022-09-01,0,500,Oregon,United States
+Project Item,2022-09-02,54811,0,Florida,United States
+Project Item,2022-09-05,8481,0,California,United States
+Project Item,2022-09-05,500,0,California,United States
+Project Item,2022-09-05,2827,0,California,United States
+Project Item,2022-09-05,16791,0,Virginia,United States
+Standard Cross Connect,2022-09-07,0,1000,Oregon,United States
+Standard Cross Connect,2022-09-07,0,1000,Oregon,United States
+Standard Cross Connect,2022-09-07,0,1000,Oregon,United States
+Standard Cross Connect,2022-09-07,0,1000,Oregon,United States
+Project Item,2022-09-07,4486,0,California,United States
+Standard Cross Connect,2022-09-07,0,1000,Oregon,United States
+Project Item,2022-09-07,8780,0,Pennsylvania,United States
+GIS2.0,2022-09-10,0,527,California,United States
+VPN,2022-09-14,0,388,Ohio,United States
+Project Item,2022-09-20,1650,0,Michigan,United States
+Project Item,2022-09-20,5990,0,Michigan,United States
+Project Item,2022-09-21,56840,0,Michigan,United States
+Project Item,2022-09-21,25110,0,Michigan,United States
+Project Item,2022-09-21,14465,0,California,United States
+Project Item,2022-09-21,9270,0,Maryland,United States
+GIS,2022-09-23,500,550,New York,United States
+IDC,2022-10-01,0,24000,California,United States
+Project Item,2022-10-04,10080,0,Kentucky,United States
+Project Item,2022-10-15,0,10000,Illinois,United States
+Project Item,2022-10-21,78880,0,California,United States
+Project Item,2022-10-21,151120,0,California,United States
+IDC,2022-10-24,600,1050,California,United States
+Project Item,2022-10-25,32180,0,Illinois,United States
+Project Item,2022-10-25,20430,0,Illinois,United States
+SD-WAN,2022-10-26,0,402,Virginia,United States
+Project Item,2022-10-26,8276,0,California,United States
+Standard Cross Connect,2022-10-31,400,299,Oregon,United States
+Project Item,2022-11-01,17300,0,Texas,United States
+Project Item,2022-11-01,720,0,California,United States
+Project Item,2022-11-01,19501,0,Texas,United States
+Project Item,2022-11-01,730,0,California,United States
+Project Item,2022-11-04,750,0,Texas,United States
+IDC,2022-11-04,600,1050,California,United States
+Standard Cross Connect,2022-11-04,400,299,Oregon,United States
+Project Item,2022-11-07,26938,0,California,United States
+Project Item,2022-11-07,15500,0,California,United States
+Project Item,2022-11-07,116480,0,California,United States
+Project Item,2022-11-07,24732,0,California,United States
+Project Item,2022-11-08,2274,0,New Jersey,United States
+Standard Cross Connect,2022-11-08,300,250,California,United States
+Project Item,2022-11-09,261,0,California,United States
+Project Item,2022-11-09,3335,0,Pennsylvania,United States
+Project Item,2022-11-09,3078,0,Texas,United States
+Project Item,2022-11-10,12996,0,Pennsylvania,United States
+Project Item,2022-11-11,3116,0,Pennsylvania,United States
+Project Item,2022-11-17,249896,0,Pennsylvania,United States
+Project Item,2022-11-17,18900,0,Pennsylvania,United States
+Project Item,2022-11-21,-400,0,Texas,United States
+Project Item,2022-11-21,-800,0,Texas,United States
+Standard Cross Connect,2022-11-22,272,299,Oregon,United States
+Standard Cross Connect,2022-11-22,272,299,Oregon,United States
+Cloud VAS,2022-12-01,0,170,Washington,United States
+Project Item,2022-12-06,10895,0,Texas,United States
+Project Item,2022-12-06,16060,0,Texas,United States
+Project Item,2022-12-08,709982,0,Virginia,United States
+Project Item,2022-12-08,3584689,0,Virginia,United States
+Project Item,2022-12-12,102514,0,Texas,United States
+Project Item,2022-12-12,76987,0,Texas,United States
+Project Item,2022-12-12,30829,0,Texas,United States
+Project Item,2022-12-12,29900,0,Texas,United States
+Project Item,2022-12-19,1800,0,New York,United States
+Project Item,2022-12-19,415,0,District of Columbia,United States
+Project Item,2022-12-19,3050,0,New York,United States
+Project Item,2022-12-22,69000,0,New York,United States
+Standard Cross Connect,2022-12-27,500,300,Virginia,United States
+Project Item,2023-01-01,3600,0,New York,United States
+IDC,2023-01-01,0,1020,California,United States
+IDC,2023-01-01,0,1020,California,United States
+IDC,2023-01-01,0,1020,California,United States
+IDC,2023-01-01,0,1020,California,United States
+IDC,2023-01-01,0,1020,California,United States
+IDC,2023-01-01,6180,319,Virginia,United States
+IDC,2023-01-01,0,1020,California,United States
+IDC,2023-01-01,0,1020,California,United States
+IDC,2023-01-01,0,1020,California,United States
+GIS,2023-01-01,1200,1150,Virginia,United States
+IDC,2023-01-01,0,1020,California,United States
+IDC,2023-01-01,0,1020,California,United States
+IDC,2023-01-01,0,1020,California,United States
+IDC,2023-01-01,0,1020,California,United States
+IDC,2023-01-01,0,1020,California,United States
+IDC,2023-01-01,0,1020,California,United States
+IDC,2023-01-01,0,1020,California,United States
+IDC,2023-01-01,372036,141668,Virginia,United States
+GIS,2023-01-01,0,1150,Virginia,United States
+IDC,2023-01-01,0,1020,California,United States
+IDC,2023-01-01,0,1020,California,United States
+GIS2.0,2023-01-06,0,12000,California,United States
+GIS2.0,2023-01-06,0,12000,California,United States
+Project Item,2023-01-09,2500,0,New Jersey,United States
+IDC,2023-01-13,1000,796,Virginia,United States
+Project Item,2023-01-27,15834,0,New York,United States
+IEPL,2023-01-29,7886,20816,Virginia,United States
+Project Item,2023-01-30,4458,0,New Jersey,United States
+GIS2.0,2023-02-03,0,12000,California,United States
+GIS2.0,2023-02-03,0,12000,California,United States
+GIS2.0,2023-02-08,0,12000,California,United States
+GIS2.0,2023-02-08,0,12000,California,United States
+Project Item,2023-02-09,115850,0,Texas,United States
+Project Item,2023-02-09,338150,0,Texas,United States
+GIS2.0,2023-02-10,560,1190,California,United States
+Project Item,2023-02-14,98507,0,Pennsylvania,United States
+Project Item,2023-02-14,-4900,0,Pennsylvania,United States
+GIS,2023-02-17,0,700,New Jersey,United States
+Project Item,2023-02-26,30419,0,Texas,United States
+Project Item,2023-02-26,6840,0,Texas,United States
+Project Item,2023-03-01,3000,0,California,United States
+GIS,2023-03-01,0,902,Texas,United States
+Project Item,2023-03-02,83701,0,California,United States
+Project Item,2023-03-02,2241,0,Pennsylvania,United States
+Project Item,2023-03-07,1505,0,California,United States
+Project Item,2023-03-07,1900,0,California,United States
+Project Item,2023-03-10,43180,0,New Jersey,United States
+Project Item,2023-03-10,1575,0,New Jersey,United States
+Project Item,2023-03-10,76819,0,New Jersey,United States
+Project Item,2023-03-10,3500,0,New Jersey,United States
+Project Item,2023-03-10,425,0,New Jersey,United States
+Project Item,2023-03-10,820,0,New Jersey,United States
+GIS2.0,2023-03-11,0,10500,California,United States
+GIS2.0,2023-03-16,0,10500,California,United States
+GIS2.0,2023-03-19,300,1050,California,United States
+GIS2.0,2023-03-22,0,410,California,United States
+IDC,2023-03-28,120,1069,California,United States
+IDC,2023-03-28,120,1069,California,United States
+IDC,2023-03-28,120,1069,California,United States
+Project Item,2023-03-29,3900,0,Illinois,United States
+Project Item,2023-03-29,14088,0,Illinois,United States
+GIS,2023-03-30,630,990,California,United States
+GIS2.0,2023-03-31,0,543,Illinois,United States
+IDC,2023-04-01,0,30453,Virginia,United States
+Project Item,2023-04-01,0,6000,California,United States
+Project Item,2023-04-10,3080,0,California,United States
+GIS2.0,2023-04-18,0,12600,California,United States
+GIS2.0,2023-04-18,0,12600,California,United States
+IDC,2023-04-20,600,1050,California,United States
+Standard Cross Connect,2023-04-20,0,470,California,United States
+IDC,2023-04-20,600,1050,California,United States
+IDC,2023-04-20,600,1050,California,United States
+GIS,2023-04-26,0,695,Texas,United States
+GIS2.0,2023-04-28,0,12000,California,United States
+GIS2.0,2023-04-28,0,12000,California,United States
+GIS2.0,2023-05-01,0,1010,District of Columbia,United States
+GIS2.0,2023-05-01,0,12000,California,United States
+GIS2.0,2023-05-01,0,12000,California,United States
+GIS2.0,2023-05-01,0,12000,California,United States
+GIS2.0,2023-05-01,0,7500,Virginia,United States
+GIS2.0,2023-05-01,0,12000,California,United States
+GIS2.0,2023-05-01,0,7500,Virginia,United States
+Project Item,2023-05-01,0,2100,Pennsylvania,United States
+GIS,2023-05-02,534,4047,District of Columbia,United States
+Project Item,2023-05-04,20502,0,Texas,United States
+GIS2.0,2023-05-11,0,865,District of Columbia,United States
+IP Sec VPN,2023-05-11,500,2950,Texas,United States
+Project Item,2023-05-12,2500,0,Texas,United States
+Project Item,2023-05-12,2563,0,Texas,United States
+Standard Cross Connect,2023-05-12,272,272,Oregon,United States
+IDC,2023-05-15,120,1069,California,United States
+Project Item,2023-05-21,10000,0,California,United States
+GIS2.0,2023-05-22,0,12000,Oregon,United States
+Project Item,2023-05-22,35946,0,California,United States
+Project Item,2023-05-24,6703,0,California,United States
+Project Item,2023-05-24,11595,0,California,United States
+GIS2.0,2023-05-25,500,4100,California,United States
+GIS2.0,2023-05-25,500,4100,California,United States
+IDC,2023-06-01,0,1000,California,United States
+IDC,2023-06-01,2500,1400,,United States
+Project Item,2023-06-06,1680,0,New York,United States
+Project Item,2023-06-06,1349,0,New York,United States
+Standard Cross Connect,2023-06-07,500,260,Los Angeles 1Wilshire LAX803 POP,United States
+Standard Cross Connect,2023-06-07,500,260,Los Angeles 1Wilshire LAX803 POP,United States
+Project Item,2023-06-09,28884,0,California,United States
+Project Item,2023-06-09,21116,0,California,United States
+Project Item,2023-06-13,6498,0,Pennsylvania,United States
+Project Item,2023-06-14,38780,0,New York,United States
+Project Item,2023-06-14,6000,0,New York,United States
+Project Item,2023-06-14,94052,0,New York,United States
+Project Item,2023-06-15,2000,0,California,United States
+Dark Fiber,2023-06-15,0,950,California,United States
+Project Item,2023-06-15,16562,0,California,United States
+Project Item,2023-06-15,2408,0,California,United States
+IDC,2023-06-15,0,1500,California,United States
+Project Item,2023-06-19,9220,0,New York,United States
+Project Item,2023-06-26,650,177,New Jersey,United States
+Standard Cross Connect,2023-06-26,300,250,California,United States
+Project Item,2023-06-27,6400,1133,District of Columbia,United States
+Project Item,2023-06-27,6000,275,District of Columbia,United States
+IDC,2023-06-27,0,1185,California,United States
+VPN,2023-06-30,0,1356,Kansas,United States
+IDC,2023-07-01,0,1200,Virginia,United States
+IDC,2023-07-01,0,2900,Virginia,United States
+Dark Fiber,2023-07-01,0,1050,California,United States
+GIS2.0,2023-07-01,0,17500,California,United States
+IDC,2023-07-02,600,1050,California,United States
+IDC,2023-07-02,600,1050,California,United States
+Project Item,2023-07-05,80953,0,California,United States
+Project Item,2023-07-05,21502,0,Texas,United States
+Project Item,2023-07-05,116928,0,California,United States
+Project Item,2023-07-05,15247,0,Pennsylvania,United States
+GIS2.0,2023-07-06,1127,2546,California,United States
+Project Item,2023-07-07,3145,0,Illinois,United States
+Project Item,2023-07-07,3980,0,Illinois,United States
+Project Item,2023-07-09,26378,0,Texas,United States
+Project Item,2023-07-09,6594,0,Texas,United States
+Project Item,2023-07-11,4200,0,Wisconsin,United States
+IEPL,2023-07-12,100,800,California,United States
+Project Item,2023-07-17,2500,0,Illinois,United States
+Project Item,2023-07-17,5426,0,Illinois,United States
+Project Item,2023-07-17,0,1942,District of Columbia,United States
+GIS,2023-07-19,0,740,California,United States
+GIS,2023-07-21,0,748,California,United States
+Project Item,2023-07-21,3001,0,Maryland,United States
+Project Item,2023-07-24,0,2475,New Jersey,United States
+Netcare,2023-07-27,0,85,Michigan,United States
+GIS2.0,2023-07-27,0,1582,Michigan,United States
+IDC,2023-07-28,120,1069,California,United States
+Cloud Server,2023-07-28,0,320,Delaware,United States
+Project Item,2023-07-29,12210,0,California,United States
+Project Item,2023-07-29,7457,0,California,United States
+GIS2.0,2023-08-01,0,8500,,United States
+GIS2.0,2023-08-09,0,4200,California,United States
+Project Item,2023-08-10,0,0,Virginia,United States
+Standard Cross Connect,2023-08-14,0,400,California,United States
+Project Item,2023-08-21,5500,0,California,United States
+Project Item,2023-08-21,5500,0,California,United States
+GIS2.0,2023-08-21,0,17000,California,United States
+Project Item,2023-08-21,31672,0,Pennsylvania,United States
+IDC,2023-08-28,120,1069,California,United States
+Cloud Server,2023-08-28,0,37,,United States
+Cloud Server,2023-08-28,0,37,,United States
+Cloud Server,2023-08-28,0,936,,United States
+Cloud Server,2023-08-28,0,936,,United States
+Cloud Server,2023-08-28,0,37,,United States
+Cloud Server,2023-08-28,0,37,,United States
+Cloud Server,2023-08-28,0,37,,United States
+Standard Cross Connect,2023-08-30,300,250,California,United States
+Netcare,2023-08-31,0,85,District of Columbia,United States
+Netcare,2023-08-31,0,85,District of Columbia,United States
+Project Item,2023-09-02,0,2518,California,United States
+IDC,2023-09-04,120,1069,California,United States
+Standard Cross Connect,2023-09-05,800,350,Virginia,United States
+Standard Cross Connect,2023-09-05,800,350,Virginia,United States
+Project Item,2023-09-07,6748,0,Illinois,United States
+Project Item,2023-09-07,6748,0,California,United States
+Project Item,2023-09-07,3940,0,California,United States
+Project Item,2023-09-07,3940,0,New York,United States
+Project Item,2023-09-07,3940,0,Illinois,United States
+Project Item,2023-09-07,6748,0,New York,United States
+VPN,2023-09-08,0,678,New York,United States
+Project Item,2023-09-08,1117,0,New Jersey,United States
+Project Item,2023-09-09,0,2140,District of Columbia,United States
+Project Item,2023-09-11,4200,0,California,United States
+VPN,2023-09-12,0,448,New York,United States
+GIS,2023-09-15,0,365,Arizona,United States
+Project Item,2023-09-19,3659,0,California,United States
+IDC,2023-09-25,38200,900,Virginia,United States
+Project Item,2023-09-26,3814,0,California,United States
+Project Item,2023-09-26,1500,0,California,United States
+Project Item,2023-09-26,3700,0,North Carolina,United States
+Project Item,2023-09-28,436,0,California,United States
+Project Item,2023-10-04,4510,0,California,United States
+CPE(EI),2023-10-13,0,150,Virginia,United States
+IDC,2023-10-18,70500,23700,Virginia,United States
+Standard Cross Connect,2023-10-19,0,400,California,United States
+Project Item,2023-10-19,400,0,Illinois,United States
+Project Item,2023-10-19,540,0,Illinois,United States
+GIS2.0,2023-10-23,0,3200,California,United States
+Project Item,2023-10-30,9945,0,Texas,United States
+GIS2.0,2023-10-30,500,3000,California,United States
+GIS2.0,2023-11-01,0,2500,Virginia,United States
+GIS2.0,2023-11-01,0,2500,California,United States
+GIS2.0,2023-11-01,0,2500,California,United States
+GIS,2023-11-01,1087,534,Texas,United States
+Project Item,2023-11-02,3500,0,California,United States
+Project Item,2023-11-02,19700,0,California,United States
+IDC,2023-11-07,4243,2500,New York,United States
+GIS,2023-11-07,0,1071,New York,United States
+IDC,2023-11-08,120,1069,California,United States
+IDC,2023-11-08,120,1069,California,United States
+IDC,2023-11-08,120,1069,California,United States
+GIS2.0,2023-11-22,0,800,California,United States
+GIS,2023-11-22,117,540,Maryland,United States
+Project Item,2023-11-22,15880,0,Maryland,United States
+Project Item,2023-11-22,1624,0,California,United States
+Project Item,2023-11-29,2000,8500,Texas,United States
+Netcare,2023-11-30,0,85,Maryland,United States
+In-house wiring,2023-12-01,1000,350,Virginia,United States
+In-house wiring,2023-12-01,500,350,Virginia,United States
+Project Item,2023-12-01,0,2330,Pennsylvania,United States
+In-house wiring,2023-12-01,1000,350,Virginia,United States
+In-house wiring,2023-12-01,500,350,Virginia,United States
+Project Item,2023-12-04,2972,0,Texas,United States
+Project Item,2023-12-04,8615,0,Texas,United States
+Project Item,2023-12-11,3000,0,Illinois,United States
+Project Item,2023-12-11,9760,0,Illinois,United States
+Project Item,2023-12-12,255704,0,Pennsylvania,United States
+Project Item,2023-12-12,129058,0,Pennsylvania,United States
+Project Item,2023-12-12,5025,0,District of Columbia,United States
+Project Item,2023-12-12,36731,0,Texas,United States
+Project Item,2023-12-12,2518,0,District of Columbia,United States
+GIS2.0,2023-12-13,1300,780,Connecticut,United States
+Managed/Maintenance Service,2023-12-15,9700,1621,Maryland,United States
+Project Item,2023-12-15,2200,0,Florida,United States
+Project Item,2023-12-15,2095,0,Florida,United States
+Project Item,2023-12-16,0,1000,New York,United States
+Project Item,2023-12-18,16850,0,California,United States
+IEPL,2023-12-19,30,1195,Illinois,United States
+Project Item,2023-12-20,9146,0,Texas,United States
+GIS,2023-12-20,0,375,California,United States
+GIS2.0,2023-12-22,0,1054,California,United States
+Project Item,2023-12-26,4000,0,California,United States
+Project Item,2023-12-26,3000,0,California,United States
+GIS2.0,2024-01-01,0,18000,California,United States
+GIS2.0,2024-01-01,0,2800,Virginia,United States
+Project Item,2024-01-01,0,4488,Illinois,United States

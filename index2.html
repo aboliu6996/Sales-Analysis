@@ -1,0 +1,50 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Last 5 years</title>
+    <link rel="stylesheet" href="./static/css/style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 jumbotron text-center custom-title-box">
+                <h2 class="custom-h2">2019-2023 Activities Comparison by product types</h2>
+            </div>
+        </div>
+    </div>
+    <div class="IMG">
+        <img src ="image/Fig1.png" alt="Comparison Image" onclick="openModal(this)">
+    </div>
+        <!-- Modal for displaying the image in full screen -->
+        <div id="myModal" class="modal">
+            <!-- Add onclick event to close modal -->
+            <span class="close" onclick="closeModal()">&times;</span>
+            <img id="modalImg" src="" alt="Full Screen Image">
+        </div>   
+    </div>
+    <a href="index3.html" class="next_button">Next Page</a>
+    <a href="index.html" class="prev_button">Prev Page</a>
+    <script>
+        // JavaScript functions for modal
+        function openModal(imgElement) {
+            var modal = document.getElementById("myModal");
+            var modalImg = document.getElementById("modalImg");
+
+            // Set the source of the modal image to the clicked image
+            modalImg.src = imgElement.src;
+
+            // Display the modal
+            modal.style.display = "block";
+        }
+
+        function closeModal() {
+            var modal = document.getElementById("myModal");
+
+            // Close the modal
+            modal.style.display = "none";
+        }
+    </script>
+</body>
+</html>
